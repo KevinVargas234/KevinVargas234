@@ -1,4 +1,26 @@
-Soy un amante de la electronica e informatica que se adentro al mundo de la programacion por curiosidad, me gusta saber como funciona todo lo que me rodea por lo que siempre estoy aprendiendo.
-Empeze aprendiendo c++, depues salte a javascript, lenguaje con el cual me encariñe por lo increiblemente dinamico que es, aprendi a desarrollar con html, css, less, react.js, node.js, express.js, redux.js entre otros.
-Estoy dispuesto a aprender a usar cualquier lenguaje o framework que se necesite, aprendo bastante rapido.
-En mi tiempo libre me gusta desarrollar videojuegos, coleccionar y resolver distintos tipos de cubos de rubik.
+<h1>Hola, me llamo Kevin Vargas</h1>
+<h2>¿quien soy?</h2>
+<p>Soy un programador fullstack que aprendio a programar por curiosidad, mi primer lenguaje de programacion fue c++,
+  me interese por la informatica a los 16 años y realice el bootcamp de <a href ="https://www.soyhenry.com/">Soy Henry</a>.
+</p>
+<h2>¿que tecnologias uso?</h2>
+<p>
+  <ul>
+        <li>Javascript</li>  
+        <li>Html</li>  
+        <li>Css</li>  
+        <li>Less</li>  
+        <li>React.js</li>
+        <li>Redux.js</li>
+        <li>Node js</li>
+        <li>Express.js</li>
+        <li>Sequelize.js</li>
+        <li>Postgresql</li>
+  </ul>
+</p>
+<h2>¡Contactame!</h2>
+<p>
+  vargasparrakevin@gmail.com
+  <br/>
+  <a href="https://www.linkedin.com/in/kevin-alexis-vargas-parra-4a3b9a206/">Linkedin</a>
+</p>
